@@ -1,0 +1,20 @@
+Ex1 - ID(number) Título(string)
+Ex2 - Porque é um valor único ímutável, que serve para identificar alguém ou algo, mesmo que outros atributos mudem.
+Ex3 - Numa tabela denominada estados
+Ex4 - Acessibilidade, organização, capacidade de armazenamento e processamento
+Ex5 - Imagem Draw.IO.png
+Ex6 - Comentário, ID da pessoa que comentou, Data de comentário, ID da task
+Ex7 - Pelo ID da Task
+Ex8 - DQL
+Ex9 - Teoricamente a base de dados deixaria de funcionar porque o Utilizador é uma tabela fundamental, um tabela base
+Ex10 - ID ou NIF, email, nome
+Ex11 - Com um atributo Role
+Ex12 - no topo das tarefas
+Ex13 - por questões de segurança, deve ser incriptado
+Ex14 - TaskCreationDate
+Ex15 - É um identificador único da tabela
+Ex16 - Não deve ser possível apagar um Utilizador com tarefas pendentes
+Ex17 - Garante que as tarefas são corretamente criadas sem conflitos e/ou perda de dados
+Ex18 - Imagem Draw.IO.png
+Ex19 - Imagem Draw.IO.png
+Ex20 - Fica mais claro, organizado e fácil de aceder
