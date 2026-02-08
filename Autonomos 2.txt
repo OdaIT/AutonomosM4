@@ -1,0 +1,35 @@
+Ex1 - User, Task, Project, Comments, Tags e por uma questão de segurança e escolha pessoal Password
+
+Ex2 - User - id*, name, email,phone
+Task - idTAsk*, projectRelated, title, description, status,tag
+Project - idProject*, title, startDate, finishingDate
+Password - password* ,IdPw
+Comments - task, nameComment, commentary, criationDate
+Tags (enum) - urgent, gub, improve
+Ex3- Os marcados com * no Ex2
+
+Ex4 - Autonomos 2.png
+
+Ex5 - Autonomos 2.png marcados com * os opcionais
+
+Ex6 - Autonomos 2.png
+
+Ex7 - Autonomos 2.png
+
+Ex8 - Autonomos 2.png
+
+Ex9 - Autonomos 2.png
+
+Ex10 - Uma tarefa pretence sempre a um user e pode estar assossiada a um projeto
+Um user pode ter várias tasks e vários projects
+Uma task pode ter várias ou nenhuma Tags
+Uma task pode ter Comments
+Os Comments são associados a apenas uma task
+
+Ex11 - no User.email
+
+Ex12 - Não deve ser possível apagar um project com tasks assossiadas
+
+Ex13 - A task e as suas dependências
+
+Ex14 - alteração direta no valor
